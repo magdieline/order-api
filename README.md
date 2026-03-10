@@ -1,4 +1,11 @@
 <<<<<<< HEAD
+# Jitterbit Technical Test
+
+Este repositório contém:
+
+- Implementação da API de pedidos em Node.js
+- Respostas do teste teórico em JavaScript
+
 # Order API
 
 API desenvolvida em Node.js para gerenciamento de pedidos.
